@@ -40,4 +40,4 @@ const stack = {
   tools: ['Prisma', 'Docker', 'Figma', 'Git']
 }
 ```
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> </p> <p align="center">Made with ❤️ by Jefferson</p> ```
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> </p> <p align="center">Made with ❤️ by Jefferson</p> 
