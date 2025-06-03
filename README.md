@@ -41,4 +41,7 @@ const stack = {
 }
 ```
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffersonceo&show_icons=true&theme=radical&hide_title=true&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamejeffersonceo&layout=compact&theme=radical&hide_border=true" height="150"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffersonceo&show_icons=true&theme=radical&hide_title=true&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?jeffersonceo&layout=compact&theme=radical&hide_border=true" height="150"> </div>
+
+
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"> </p> <p align="center">Made with ❤️ by Jefferson</p> ```
