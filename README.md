@@ -31,9 +31,6 @@
 
 ### 🚀 Tecnologias
 
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_title=true&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" height="150"> </div>
-
 ```ts
 const stack = {
   frontEnd: ['React', 'Flutter', 'Next.js'],
@@ -42,3 +39,6 @@ const stack = {
   database: ['MySQL', 'PostgreSQL', 'SQLite'],
   tools: ['Prisma', 'Docker', 'Figma', 'Git']
 }
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jeffersonceo&show_icons=true&theme=radical&hide_title=true&hide_border=true" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernamejeffersonceo&layout=compact&theme=radical&hide_border=true" height="150"> </div>
